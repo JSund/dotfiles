@@ -1,0 +1,40 @@
+Host *.csc.kth.se *.csc.kth.se. *.nada.kth.se *.nada.kth.se. *.speech.kth.se  *.speech.kth.se. *.pdc.kth.se *.pdc.kth.se.
+	GSSAPIAuthentication yes
+	GSSAPIKeyExchange yes
+	GSSAPIDelegateCredentials yes
+
+Host s-shell my µ
+	HostName	s-shell.csc.kth.se
+	User		josundb
+	GSSAPIAuthentication yes
+	GSSAPIKeyExchange yes
+	GSSAPIDelegateCredentials yes
+
+Host u-shell u3 u
+	HostName	u-shell.csc.kth.se
+	User		josundb
+	GSSAPIAuthentication yes
+	GSSAPIKeyExchange yes
+	GSSAPIDelegateCredentials yes
+
+Host oxygen o
+	HostName	oxygen.jsund.com
+	Port		4722
+
+Host zen z
+	HostName	zen.jsund.com
+
+Host wintermute w
+	HostName	wintermute.jsund.com
+
+Host jenny
+	HostName	jenny.torandi.com
+
+Host molly
+	HostName	molly.jsund.com
+
+Host xenon
+	HostName	10.0.0.13
+
+Host icpc
+	HostName	icpc.zen.ceri.se
