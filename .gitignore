@@ -1,0 +1,5 @@
+.ssh/authorized_keys
+.ssh/id_[dr]sa
+.ssh/id_[dr]sa.pub
+.ssh/known_hosts
+.vim/.netrwhist
