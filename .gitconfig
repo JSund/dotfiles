@@ -1,0 +1,7 @@
+[user]
+	email = jsund@jsund.com
+	name = Jonas Sundberg
+[color]
+	ui = true
+[core]
+	excludesfile = ~/.gitignore_global
